@@ -1,5 +1,7 @@
 # pin_chanllenge
 
+A challenge to win an interview for a flutter engineer job -- http://3.124.190.213/instructions
+
 What it looks like and what it does:
 
 # The PIN screen
